@@ -1,4 +1,7 @@
-# Pacman project -- Pisibot Controller Atmel
+# Pac-Man project -- Pisibot Controller Atmel
+
+These are drivers for robots that are used in the 
+[Pac-Man project](https://github.com/TalTechRobotiklubi/Pacman).
 
 ## Team
 * Project lead: Erki Meinberg
