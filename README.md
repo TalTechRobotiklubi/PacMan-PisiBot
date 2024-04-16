@@ -10,9 +10,10 @@ These are drivers for robots that are used in the
 * Pisibot v6 electronics+drivers: Märtin Laanemets
 
 ## IMPORTANT -- About dependencies
-This code depends on the Robotics Club pisibot drivers that are not included in 
-this repository. If you want to build the repository, include the dependencies 
-in a folder called "drivers".
+This code depends on the Robotics Club Pisibot drivers (written by Rain Ellermaa 
+and other TTÜ Robotiklubi members) that are not included in this repository. If 
+you want to build the repository, include the dependencies in a folder called
+"drivers".
 
 ## About compiling
 To compile run the following commands:
